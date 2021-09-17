@@ -1,5 +1,5 @@
 # Login.Signup_Via_PyQt5
-A very interactive basic UI for users to login to the dashboard page and register them selves
+A very interactive basic UI for users to login to the dashboard page and register themselves
 
 Data is stored in MySQL workbench
 
