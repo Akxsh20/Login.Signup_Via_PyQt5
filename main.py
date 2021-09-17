@@ -35,9 +35,9 @@ class WelcomeScreen(QDialog):
                 # connecting to DB and validating the Uname and pwd
                 mydb = mysql.connector.connect(
                     host='localhost',
-                    user='root',
-                    passwd='kumar',
-                    port='3306',
+                    user='Mysql user',
+                    passwd='Enter Your password',
+                    port='Your default port',
                     database='test')
                 cur=mydb.cursor()
                 cur.execute('SELECT * from account_details where Username=%s and Password=%s'
