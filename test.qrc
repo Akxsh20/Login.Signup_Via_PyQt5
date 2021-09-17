@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>C:/Users/akxsh/Pictures/Saved Pictures/366398.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>C:/Users/akxsh/Desktop/2c933fdd5a3b0a5f8a51a0f44eb0f619.jpg</file>
+  </qresource>
+</RCC>
