@@ -1,14 +1,10 @@
 import sys
 from PyQt5.uic import loadUi
 from PyQt5.QtGui import *
+from PyQt5.QtWidgets import *
 
 ######## Data Base Connection ########
 import mysql.connector
-
-
-
-from PyQt5.QtWidgets import *
-#from welcomescreen import WelcomeScreen
 
 
 ########### welcome.ui #########
